@@ -1,0 +1,7 @@
+sleepy
+grumpy
+happy
+hungry
+brave
+tiny
+lazy

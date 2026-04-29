@@ -1,0 +1,9 @@
+
+def add_task_to_file(file_path):
+
+    new_task = "Celebrate small win with a cookie."
+
+    with open(file_path, "a", encoding='utf-8') as f:
+        f.write("\n" + new_task)
+
+add_task_to_file(r"week_9\data\todo.txt")

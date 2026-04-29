@@ -1,0 +1,7 @@
+cat
+panda
+giraffe
+dog
+fox
+elephant
+bear
