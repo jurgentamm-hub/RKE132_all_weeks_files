@@ -4,4 +4,4 @@ if day == "tööpäev":
 elif day == "puhkepäev":
     print("Veel üks osa netflixist!")
 else:
-    print("Vale väärtus!")
+    print("Vale vaartus!")
